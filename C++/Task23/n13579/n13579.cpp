@@ -1,4 +1,4 @@
-// https://inf-ege.sdamgia.ru/problem?id=13579
+// https://inf.reshuege.ru/problem?id=13579
 
 #include <iostream>
 
@@ -12,7 +12,10 @@ int R(int n, int k)
 	{
 		return 0;
 	}
-	return R(n + 1, k) + R(n + 2, k) + R(n + 3, k);
+	else
+	{
+		return R(n + 1, k) + R(n + 2, k) + R(n + 3, k);
+	}
 }
 
 int main()

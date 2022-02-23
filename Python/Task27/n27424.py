@@ -1,4 +1,4 @@
-# https://inf-ege.sdamgia.ru/problem?id=27424
+# https://inf.reshuege.ru/problem?id=27424
 
 f = open('./Data/27-B_demo.txt')
 n = int(f.readline())
