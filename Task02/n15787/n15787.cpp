@@ -1,15 +1,10 @@
-// https://inf-ege.sdamgia.ru/problem?id=15787e.
+// https://inf-ege.sdamgia.ru/problem?id=15787e
 
 #include <iostream>
 
 bool imp(bool x, bool y)
 {
     return !x || y;
-}
-
-bool eq(bool x, bool y)
-{
-    return !x && !y || x && y;
 }
 
 int main()
@@ -23,8 +18,8 @@ int main()
             {
                 for (bool w : { false, true })
                 {
-                    bool f = (imp(x, y) && imp(y, w)) || (eq(z, x || y));
-                    if (!f)
+                    bool f = (imp(x, y) && imp(y, w)) || (z == (x || y));
+                    if (f == false)
                     {
                         std::cout << x << " " << y << " " << z << " " << w << " " << f << std::endl;
                     }
