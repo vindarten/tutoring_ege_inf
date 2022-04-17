@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{20739e75-671d-41b5-99b7-c51e7c509f90}</ProjectGuid>
-    <RootNamespace>Temp</RootNamespace>
+    <ProjectGuid>{FEB52E89-3447-4E59-B6BA-5E698CFF2E17}</ProjectGuid>
+    <RootNamespace>n27802</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Temp.cpp" />
+    <ClCompile Include="n27802.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

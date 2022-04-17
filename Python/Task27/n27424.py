@@ -1,6 +1,6 @@
 # https://inf.reshuege.ru/problem?id=27424
 
-f = open('./Data/27-B_demo.txt')
+f = open('n27424_A.txt')
 n = int(f.readline())
 mind = 20001
 sum = 0
