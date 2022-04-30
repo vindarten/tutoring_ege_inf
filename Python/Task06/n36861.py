@@ -1,4 +1,4 @@
-# https://inf.reshuege.ru/problem?id=36861
+﻿# https://inf.reshuege.ru/problem?id=36861
 
 # Оформлено в виде функции, чтобы можно было использовать return
 # для выхода из всех вложенных циклов

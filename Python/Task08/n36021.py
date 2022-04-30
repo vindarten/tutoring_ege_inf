@@ -1,4 +1,4 @@
-# https://inf-ege.sdamgia.ru/problem?id=36021
+﻿# https://inf-ege.sdamgia.ru/problem?id=36021
 
 import itertools
 

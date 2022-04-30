@@ -1,4 +1,4 @@
-# https://inf-ege.sdamgia.ru/problem?id=9761
+﻿# https://inf-ege.sdamgia.ru/problem?id=9761
 
 def F(n):
 	if n > 2:

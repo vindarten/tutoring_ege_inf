@@ -1,4 +1,4 @@
-# https://inf.reshuege.ru/problem?id=33518
+﻿# https://inf.reshuege.ru/problem?id=33518
 
 def F(n):
 	if n == 0:

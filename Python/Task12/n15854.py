@@ -1,4 +1,4 @@
-# https://inf-ege.sdamgia.ru/problem?id=15854
+﻿# https://inf-ege.sdamgia.ru/problem?id=15854
 
 s = '1' + '0'*80
 while '10' in s or '1' in s:

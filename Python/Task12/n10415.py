@@ -1,4 +1,4 @@
-# https://inf-ege.sdamgia.ru/problem?id=10415
+﻿# https://inf-ege.sdamgia.ru/problem?id=10415
 
 s = '8'*99 + '1'
 while '133' in s or '881' in s:

@@ -1,4 +1,4 @@
-// https://inf-ege.sdamgia.ru/problem?id=28130
+ï»¿// https://inf-ege.sdamgia.ru/problem?id=28130
 
 #include <iostream>
 #include <fstream>
@@ -74,8 +74,8 @@ int main()
 {
 	const char* filename = ".\\Data\\28130_B.txt";
 	{
-		cout << "Ðåøåíèå â îäèí ïðîõîä ÷åðåç ïîäñ÷åò êîëè÷åñòâà ÷èñåë,";
-		cout << "äàþùèõ îïðåäëåííûå îñòàòêè ïðè äåëåíèè íà 80" << endl;
+		cout << "Ð ÐµÑˆÐµÐ½Ð¸Ðµ Ð² Ð¾Ð´Ð¸Ð½ Ð¿Ñ€Ð¾Ñ…Ð¾Ð´ Ñ‡ÐµÑ€ÐµÐ· Ð¿Ð¾Ð´ÑÑ‡ÐµÑ‚ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð° Ñ‡Ð¸ÑÐµÐ»,";
+		cout << "Ð´Ð°ÑŽÑ‰Ð¸Ñ… Ð¾Ð¿Ñ€ÐµÐ´Ð»ÐµÐ½Ð½Ñ‹Ðµ Ð¾ÑÑ‚Ð°Ñ‚ÐºÐ¸ Ð¿Ñ€Ð¸ Ð´ÐµÐ»ÐµÐ½Ð¸Ð¸ Ð½Ð° 80" << endl;
 		steady_clock::time_point time_start = high_resolution_clock::now();
 		int count = onePassAlgo(filename);
 		steady_clock::time_point time_end = high_resolution_clock::now();
@@ -85,7 +85,7 @@ int main()
 	}
 
 	{
-		cout << "Ðåøåíèå ïðîñòûì ïåðåáîðîì" << endl;
+		cout << "Ð ÐµÑˆÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¾ÑÑ‚Ñ‹Ð¼ Ð¿ÐµÑ€ÐµÐ±Ð¾Ñ€Ð¾Ð¼" << endl;
 		steady_clock::time_point time_start = high_resolution_clock::now();
 		int count = simpleAlgo(filename);
 		steady_clock::time_point time_end = high_resolution_clock::now();

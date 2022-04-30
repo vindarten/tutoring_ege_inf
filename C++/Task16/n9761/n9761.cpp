@@ -1,8 +1,8 @@
-// https://inf-ege.sdamgia.ru/problem?id=9761
+п»ї// https://inf-ege.sdamgia.ru/problem?id=9761
 
 #include <iostream>
 
-// Нужно объявить функцию G(int) до первого использования.
+// РќСѓР¶РЅРѕ РѕР±СЉСЏРІРёС‚СЊ С„СѓРЅРєС†РёСЋ G(int) РґРѕ РїРµСЂРІРѕРіРѕ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ.
 int G(int n);
 
 int F(int n)

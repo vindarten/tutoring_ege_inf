@@ -1,4 +1,4 @@
-# https://inf-ege.sdamgia.ru/problem?id=23912
+﻿# https://inf-ege.sdamgia.ru/problem?id=23912
 
 s = '>' + '1'*10 + '2'*20 + '3'*30
 while '>1' in s or '>2' in s or '>3' in s:

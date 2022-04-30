@@ -1,4 +1,4 @@
-# https://inf-ege.sdamgia.ru/problem?id=39763
+﻿# https://inf-ege.sdamgia.ru/problem?id=39763
 
 file = open('n39763.txt')
 

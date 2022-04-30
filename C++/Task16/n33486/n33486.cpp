@@ -1,4 +1,4 @@
-// https://inf.reshuege.ru/problem?id=33486
+﻿// https://inf.reshuege.ru/problem?id=33486
 
 #include <iostream>
 

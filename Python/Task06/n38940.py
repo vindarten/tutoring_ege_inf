@@ -1,4 +1,4 @@
-# https://inf.reshuege.ru/problem?id=38940
+﻿# https://inf.reshuege.ru/problem?id=38940
 
 count = 0
 for i in range(1000000):

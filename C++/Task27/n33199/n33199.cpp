@@ -1,4 +1,4 @@
-// https://inf-ege.sdamgia.ru/problem?id=33199
+ï»¿// https://inf-ege.sdamgia.ru/problem?id=33199
 
 #include <iostream>
 #include <fstream>
@@ -10,7 +10,7 @@ int main()
 	int x, y, z;
 	int min = 0, med = 0, max = 0, minDif = 100001;
 	int sum1 = 0, sum2 = 0, sum3 = 0;
-	file >> x; // Ïðîïóñêàåì êîëè÷åñòâî òðîåê.
+	file >> x; // ÐŸÑ€Ð¾Ð¿ÑƒÑÐºÐ°ÐµÐ¼ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ñ€Ð¾ÐµÐº.
 	while (file >> x >> y >> z)
 	{
 		max = std::max(x, std::max(y, z));

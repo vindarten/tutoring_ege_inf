@@ -1,4 +1,4 @@
-// https://inf-ege.sdamgia.ru/problem?id=27689
+﻿// https://inf-ege.sdamgia.ru/problem?id=27689
 
 #include <iostream>
 #include <fstream>

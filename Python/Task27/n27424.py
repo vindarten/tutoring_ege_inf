@@ -1,4 +1,4 @@
-# https://inf.reshuege.ru/problem?id=27424
+﻿# https://inf.reshuege.ru/problem?id=27424
 
 f = open('n27424_A.txt')
 n = int(f.readline())

@@ -1,4 +1,4 @@
-# https://inf-ege.sdamgia.ru/problem?id=26986
+﻿# https://inf-ege.sdamgia.ru/problem?id=26986
 
 s = '7'*40 + '9'*40 + '4'*50
 while '49' in s or '97' in s or '47' in s:

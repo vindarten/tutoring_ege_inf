@@ -1,4 +1,4 @@
-# https://inf.reshuege.ru/problem?id=37141
+﻿# https://inf.reshuege.ru/problem?id=37141
 
 max_i = -1001
 for i in range(-1000, 1000):
