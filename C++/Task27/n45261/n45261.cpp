@@ -3,6 +3,7 @@
 #include <iostream>
 #include <fstream>
 
+// Решение работает только для случая, когда n - четное
 int main()
 {
 	std::fstream file(".\\Data\\n45261_B.txt", std::ios_base::in);
